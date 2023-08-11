@@ -47,16 +47,11 @@ In the project properties window, go to "Libraries" and ensure that "Java Platfo
 6. Build the Project:
 Right-click on the project name again and choose "Build" from the context menu. This will compile the Java code and build the project.
 
-# Screenshots
-![Screenshot (298)](https://github.com/VaibhavMali001/java-notepad/assets/139566561/9ceaaa7b-c707-40ed-899b-d0ce818e802d)
-![Screenshot 2023-08-11 174507](https://github.com/VaibhavMali001/java-notepad/assets/139566561/3fb71fe3-27d2-40b8-99d1-9f50092f37b6)
-![Screenshot 2023-08-11 174524](https://github.com/VaibhavMali001/java-notepad/assets/139566561/00aa7201-d58c-4396-9e1d-575ea8f3cea1)
-
-
-
-
 7. Run the Project:
 After successful build, right-click on the project name.
 Select "Run" from the context menu, or click the green "Play" button in the toolbar. This will launch the Sudoku Solver application.
 
 # Screenshots
+![Screenshot (298)](https://github.com/VaibhavMali001/java-notepad/assets/139566561/9ceaaa7b-c707-40ed-899b-d0ce818e802d)
+![Screenshot 2023-08-11 174507](https://github.com/VaibhavMali001/java-notepad/assets/139566561/3fb71fe3-27d2-40b8-99d1-9f50092f37b6)
+![Screenshot 2023-08-11 174524](https://github.com/VaibhavMali001/java-notepad/assets/139566561/00aa7201-d58c-4396-9e1d-575ea8f3cea1)
