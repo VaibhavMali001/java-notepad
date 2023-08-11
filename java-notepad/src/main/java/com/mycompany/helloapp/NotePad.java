@@ -129,7 +129,7 @@ JTextArea jta=new JTextArea();
 			jta.paste();
 		}else if(e.getActionCommand().equals("About Notepad")){ 
 			//about
-			JOptionPane.showMessageDialog(this,"Created by: Geeks for Geeks (https://www.geeksforgeeks.org/)","Notepad",JOptionPane.INFORMATION_MESSAGE);
+			JOptionPane.showMessageDialog(this,"Created by- Vaibhav Mali(https://github.com/VaibhavMali001)","Notepad",JOptionPane.INFORMATION_MESSAGE);
 		}else if(e.getActionCommand().equals("Cut")){
 			jta.cut();
 		}
